@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.game-container {
+  display: flex;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+canvas {
+  border: 1px solid #000;
+  background-color: #fff;
+}
+
+.info {
+  margin-left: 20px;
+  text-align: center;
+}
+
+#start-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

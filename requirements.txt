@@ -1,0 +1,4 @@
+numpy
+wget
+mglearn
+matplotlib
